@@ -7,15 +7,15 @@ dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:        	  /
+url:        	  
 
 # Owner/author information
 owner:
   name:           Cat's Cranium
   avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  email:          catscranium@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    Because, why not?
   # Social networking links used in footer. Update and remove as you like.
   #twitter:        catscranium
   #facebook:       hmfaysal
